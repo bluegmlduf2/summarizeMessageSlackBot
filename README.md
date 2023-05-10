@@ -1,7 +1,8 @@
 # Required
 
--   [SLACK API](https://api.slack.com/)
--   OPENGPT API
+-  PHP 8.0.28
+-  [SLACK API](https://api.slack.com/)
+-  OPENGPT API
 
 # SLACK
 
