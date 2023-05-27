@@ -2,7 +2,8 @@
 
 -  PHP 8.0.28
 -  [SLACK API](https://api.slack.com/)
--  OPENGPT API
+-  [OPENGPT API](https://platform.openai.com/docs/api-reference/chat)
+-  [Ngrok](https://ngrok.com/)
 
 # SLACK
 
@@ -11,4 +12,10 @@
 
 # OPENGPT API
 
-1. ...
+1. Access the [site](https://platform.openai.com/account/api-keys) and get the API key issued
+
+## Installation
+
+```bash
+mv config_example.php config.php # input ChatGPT's API_KEY in config.php
+```
